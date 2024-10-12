@@ -160,8 +160,16 @@
   color: #fff;
 }
 
-.iframe {
+.recipes__iframe {
   border: none;
   width: 560px;
   height: 315px;
+}
+
+.reservation {
+  background-image: url("/images/background_reservation.svg");
+  background-color: #d9e7ff;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
